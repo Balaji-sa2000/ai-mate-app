@@ -13,6 +13,8 @@ client/build/
 
 # Ignore environment variables file (contains sensitive API keys)
 server/.env
+client\.env
+
 
 # VS Code settings (optional)
 .vscode/
